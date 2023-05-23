@@ -1,0 +1,5 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’õž…úÿÿÿÿ8’Ô…‘„1
+V
+java:S3518"9Make sure "max" can't be zero before doing this division.(Ä¥ÉÃ8À§•‘„1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜ô¹'8ÁÔ…‘„1
