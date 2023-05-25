@@ -1,7 +1,10 @@
-import java.io.*;
-import java.util.*;
+package DataStructure;
 
-public class Main {
+import java.io.*;
+import java.util.PriorityQueue;
+import java.util.StringTokenizer;
+
+public class No1253 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
