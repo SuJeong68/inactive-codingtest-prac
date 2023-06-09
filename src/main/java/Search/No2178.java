@@ -12,7 +12,6 @@ public class No2178 {
     private static int[][] maze;
     private static Queue<Room> queue = new LinkedList<>();
     private static boolean[][] visited;
-    private static int count = 1;
     private static int n;
     private static int m;
 
