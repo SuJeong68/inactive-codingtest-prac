@@ -2,7 +2,6 @@ package Search;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Stack;
 import java.util.StringTokenizer;
 
 public class No13023 {
