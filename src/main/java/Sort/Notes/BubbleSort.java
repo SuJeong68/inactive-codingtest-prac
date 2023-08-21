@@ -3,6 +3,7 @@ package Sort.Notes;
 public class BubbleSort {
     public static void sort(int[] arr) {
         // 시간복잡도 : O(n^2)
+        // PRE-CONDITION : 순서값의 시퀀스
         // POST-CONDITION : 전체 시퀀스 정렬
         for (int i = arr.length - 1; i > 0; i--) {
             for (int j = 0; j < i; j++) {

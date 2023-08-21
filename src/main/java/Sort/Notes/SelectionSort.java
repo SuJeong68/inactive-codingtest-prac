@@ -4,6 +4,8 @@ public class SelectionSort {
     public static void sort(int[] arr) {
         // 시간복잡도 : O(n^2)
         // 버블 정렬과 유사함. But, 가장 큰 수를 찾아 적절한 위치에 배치하기 때문에 보다 효율적!
+
+        // PRE-CONDITION : 순서값의 시퀀스
         // POST-CONDITION : 전체 시퀀스 정렬
         for (int i = arr.length - 1; i > 0; i--) {
             int max = 0;
